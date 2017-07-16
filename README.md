@@ -22,6 +22,8 @@ Run the following commands in your terminal:
 
 `$ npm install`
 
+#### Running The App  
+
 `$ npm startServer`
 
 Then open a seperate terminal window and in the same `/albums-react-native` directory run:
