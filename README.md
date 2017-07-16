@@ -11,10 +11,13 @@ A React Native app ecommerce app to display a collection of albums available for
 
 - NodeJS: https://nodejs.org/en/
 - Xcode: https://developer.apple.com/xcode/
+- Homebrew: https://brew.sh/
 
 #### Installation
 
 Run the following commands in your terminal:
+
+`$ brew install watchman`
 
 `$ git clone git@github.com:JonnyPickard/albums-react-native.git`
 
