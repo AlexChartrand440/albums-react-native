@@ -35,10 +35,13 @@ const AlbumDetail = (props) => {
 
       {/* AlbumImageSection */}
       <CardSection>
+
+        {/* AlbumImage */}
         <Image
           style={imageStyle}
           source={{ uri: image }}
         />
+
       </CardSection>
 
     </Card>
@@ -63,7 +66,7 @@ const styles = {
   imageStyle: {
     height: 300,
     flex: 1,
-    widght: null
+    width: null
   }
 };
 
