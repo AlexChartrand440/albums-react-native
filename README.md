@@ -53,11 +53,13 @@ When the user clicks the `BuyButton` it takes them through to the relative amazo
 The data used to populate the app is mock json data and gets served via a get request to the back end server @ http://localhost:3000.
 
 This is a mockup I made using Balsamiq:  
+
 ![Mockup]
 
 ### Finished Product
 
-This is a screenshot of the resulting app running on the ios simulator.  
+This is a screenshot of the resulting app running on the ios simulator:  
+
 ![Screenshot]
 
 [Mockup]: https://github.com/JonnyPickard/albums-react-native/blob/master/src/docs/AlbumsMockup.png
