@@ -10,7 +10,10 @@ class AlbumList extends Component {
 
   componentWillMount() {
     axios.get(albumUrl)
-      .then((response) => this.setState({ albums: response.data }));
+      .then((response) => {
+        console.log(response);
+        this.setState({ albums: response.data });
+      });
   }
 
   renderAlbums() {
