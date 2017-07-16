@@ -48,7 +48,7 @@ const AlbumDetail = (props) => {
       {/* BuyButtonSection */}
       <CardSection>
 
-        <Button />
+        <Button onPress={() => console.log(title)} />
 
       </CardSection>
 
